@@ -1,0 +1,23 @@
+{
+  "name": "messaging",
+  "version": "1.0.0",
+  "description": "messaging for a school on a website that hasn't been blocked by the admin...yet",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emj1214/messaging.git"
+  },
+  "author": "Emma Johnson, Daniel Noon",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/emj1214/messaging/issues"
+  },
+  "homepage": "https://github.com/emj1214/messaging#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
